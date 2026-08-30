@@ -4,7 +4,7 @@ A credit-metered AI chatbot built on the [Next.js Supabase starter](https://gith
 
 ---
 
-![Chatbot UI](docs/screenshot.png)
+![Chatbot UI](docs/ScreenShot.png)
 
 ---
 
@@ -84,7 +84,7 @@ supabase/migrations/       # SQL: tables, RLS policies, RPC functions, cron job
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/notayannn/Supabase-ChatBot
 cd chatbot-app
 npm install
 ```
