@@ -84,7 +84,7 @@ supabase/migrations/       # SQL: tables, RLS policies, RPC functions, cron job
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/notayannn/Supabase-ChatBot
 cd chatbot-app
 npm install
 ```
