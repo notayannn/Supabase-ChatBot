@@ -4,7 +4,7 @@ A credit-metered AI chatbot built on the [Next.js Supabase starter](https://gith
 
 ---
 
-![Chatbot UI](docs/screenshot.png)
+![Chatbot UI](docs/ScreenShot.png)
 
 ---
 
